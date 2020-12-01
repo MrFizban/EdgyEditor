@@ -1,0 +1,24 @@
+{
+  "name": "edgyeditor",
+  "version": "0.0.0",
+  "description": "Un tentativo di creare un text editor [MD]",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrFizban/EdgyEditor.git"
+  },
+  "keywords": [
+    "javascipt",
+    "electron",
+    "simpleMDE"
+  ],
+  "author": "MrFizban",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrFizban/EdgyEditor/issues"
+  },
+  "homepage": "https://github.com/MrFizban/EdgyEditor#readme"
+}
